@@ -44,6 +44,7 @@ a.skip:focus{
     flex-direction:column;
     justify-content: center;
     align-items: center;
+    flex-wrap:wrap;
 }
 
 .card{
@@ -102,6 +103,7 @@ a.skip:focus{
 
     .pricing{
         flex-direction: row;
+        flex-wrap:wrap;
     }
 
     .card{
