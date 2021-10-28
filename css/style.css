@@ -8,6 +8,11 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-basis:auto;
+    background:#fff;
+    top: 0;
+    left:0;
+    flex-wrap:wrap;
 }
 
 a:visited{
